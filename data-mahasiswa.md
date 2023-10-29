@@ -8,7 +8,8 @@
 
 ![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/838f4c15-7f86-48a9-adfb-449cac4cb5b7)
 
-3. Ketik command dibawah sesuai perintah yang diinginkan.
+3. Input password yang sudah di masukkan pada saat proses penginstallan
+4. Ketik command dibawah sesuai perintah yang diinginkan.
 
 * `CREATE DATABASE nama_database;`
 > Untuk membuat sebuah database baru.
