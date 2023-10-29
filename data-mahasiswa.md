@@ -3,9 +3,11 @@
 1. Buka SQL Shell (psql)
 
 ![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/6732ef41-8aef-4850-abed-f0bb70bea84c)
+
 3. klik enter sampai diminta untuk menginput password
 
 ![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/838f4c15-7f86-48a9-adfb-449cac4cb5b7)
+
 4. Ketik command dibawah sesuai perintah yang diinginkan.
 
 `CREATE DATABASE *nama_database*;`
