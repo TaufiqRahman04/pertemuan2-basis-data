@@ -1,4 +1,4 @@
-# Membuat Database menggunakan PostgreSQL
+### Membuat Database menggunakan PostgreSQL
 
 1. Buka SQL Shell (psql)
 
@@ -25,6 +25,7 @@
 `INSERT INTO *nama_tabel* (kolom1,kolom2,...) VALUES (values1,values2,...);`
 > Untuk menginputkan sebuah data,dengan berdasarkan kolom yang diinginkan
 > Jika ingin menginputkan sebuah data kepada semua kolom,cukup dengan
+
 `INSERT INTO *nama_tabel* VALUES (values1,values2,...);`
 
 `SELECT * FROM *nama_tabel*;`
@@ -40,7 +41,7 @@
 `\d *nama_Tabel*`
 > Untuk melihat informasi dari setiap kolom
 
-# Hasil Tabel yang sudah dibuat
+### Hasil Tabel yang sudah dibuat
 * SQL Shell (psql)
   
 ![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/7ea68667-c6e8-460f-94a1-948e2e1a2d46)
