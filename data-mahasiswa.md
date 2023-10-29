@@ -11,23 +11,29 @@
 3. Input password yang sudah di masukkan pada saat proses penginstallan
 4. Ketik command dibawah sesuai perintah yang diinginkan.
 
+
 * `CREATE DATABASE nama_database;`
 > Untuk membuat sebuah database baru.
+
 
 * `\c nama_database`
 > Untuk menyambungkan sebuah database untuk di edit
 
+
 * `CREATE TABLE nama_tabel;`
 > Untuk Membuat sebuah tabel baru di dalam database
 
+
 * `ALTER TABLE nama_tabel ADD nama_kolom datatype;`
 > Untuk menambahkan kolom baru di sebuah tabel
+
 
 * `INSERT INTO nama_tabel (kolom1,kolom2,...) VALUES (values1,values2,...);`
 > Untuk menginputkan sebuah data,dengan berdasarkan kolom yang diinginkan
 > Jika ingin menginputkan sebuah data kepada semua kolom,cukup dengan
 
 `INSERT INTO nama_tabel VALUES (values1,values2,...);`
+
 
 * `SELECT * FROM nama_tabel;`
 > Untuk menampilkan sebuah tabel
@@ -38,8 +44,10 @@
 > ASC untuk secara ascending (Mulai dari terkecil)
 > DESC untuk secara descending (Mulai dari terbesar)
 
+
 * `\dt`
 > Untuk melihat list tabel yang ada di dalam database
+
 
 * `\d *nama_Tabel*`
 > Untuk melihat informasi dari setiap kolom
