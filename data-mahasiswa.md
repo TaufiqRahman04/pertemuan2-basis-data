@@ -10,28 +10,30 @@
 
 4. Ketik command dibawah sesuai perintah yang diinginkan.
 
-* `CREATE DATABASE *nama_database*;`
+* `CREATE DATABASE nama_database;`
 > Untuk membuat sebuah database baru.
 
-* `\c *nama_database*`
+* `\c nama_database`
 > Untuk menyambungkan sebuah database untuk di edit
 
-* `CREATE TABLE *nama_tabel*;`
+* `CREATE TABLE nama_tabel;`
 > Untuk Membuat sebuah tabel baru di dalam database
 
-* `ALTER TABLE table_name ADD column_name datatype;`
+* `ALTER TABLE nama_tabel ADD nama_kolom datatype;`
 > Untuk menambahkan kolom baru di sebuah tabel
 
-* `INSERT INTO *nama_tabel* (kolom1,kolom2,...) VALUES (values1,values2,...);`
+* `INSERT INTO nama_tabel (kolom1,kolom2,...) VALUES (values1,values2,...);`
 > Untuk menginputkan sebuah data,dengan berdasarkan kolom yang diinginkan
 > Jika ingin menginputkan sebuah data kepada semua kolom,cukup dengan
 
-`INSERT INTO *nama_tabel* VALUES (values1,values2,...);`
+`INSERT INTO nama_tabel VALUES (values1,values2,...);`
 
-* `SELECT * FROM *nama_tabel*;`
+* `SELECT * FROM nama_tabel;`
 > Untuk menampilkan sebuah tabel
 > Untuk menampilkan sebuah tabel dengan diurutkan tambahkan :
-`ORDER BY *nama_kolom* ASC/DESC;`
+
+`ORDER BY nama_kolom ASC/DESC;`
+
 > ASC untuk secara ascending (Mulai dari terkecil)
 > DESC untuk secara descending (Mulai dari terbesar)
 
