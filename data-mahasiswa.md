@@ -20,7 +20,7 @@
 > Untuk menyambungkan sebuah database untuk di edit
 
 
-* `CREATE TABLE nama_tabel;`
+* `CREATE TABLE nama_tabel (kolom1 tipedata,kolom2 tipedata,...);`
 > Untuk Membuat sebuah tabel baru di dalam database
 
 
