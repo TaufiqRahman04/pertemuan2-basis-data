@@ -42,6 +42,7 @@
 `ORDER BY nama_kolom ASC/DESC;`
 
 > ASC untuk secara ascending (Mulai dari terkecil)
+
 > DESC untuk secara descending (Mulai dari terbesar)
 
 
