@@ -21,7 +21,7 @@
 
 
 * `CREATE TABLE nama_tabel (kolom1 tipedata,kolom2 tipedata,...);`
-> Untuk Membuat sebuah tabel baru di dalam database
+> Untuk Membuat sebuah tabel baru di dalam database beserta kolomnya.
 
 
 * `ALTER TABLE nama_tabel ADD nama_kolom datatype;`
