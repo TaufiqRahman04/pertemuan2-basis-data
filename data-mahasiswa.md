@@ -56,9 +56,9 @@
 ### Hasil Tabel yang sudah dibuat
 * SQL Shell (psql)
   
-![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/105cc67d-4abd-4ae1-b2cb-8455e05af2cb)
+![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/4f41238a-741f-4840-8ce7-94caa12bbc39)
 
 
 * Dbeaver
   
-![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/642d4e15-bae6-4eda-884c-942d274b7b34)
+![image](https://github.com/TaufiqRahman04/pertemuan2-basis-data/assets/148308595/518b052e-434d-4a72-8011-633cbd59a9d7)
