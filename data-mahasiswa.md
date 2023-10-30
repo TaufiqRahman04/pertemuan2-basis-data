@@ -50,7 +50,7 @@
 > Untuk melihat list tabel yang ada di dalam database
 
 
-* `\d *nama_Tabel*`
+* `\d nama_Tabel`
 > Untuk melihat informasi dari setiap kolom
 
 
